@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\infrastrutura\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:infrastrutura\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\infrastrutura\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:infrastrutura\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|c:\\users\\hp\\source\\repos\\portaldoaluno\\infrastrutura\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:infrastrutura\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|C:\\Users\\hp\\source\\repos\\PortalDoAluno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D1DB630-D884-4C53-9AAF-8E807B303223}|PortalDoAluno.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AlunoRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\Infrastrutura\\AlunoRepository.cs",
               "RelativeDocumentMoniker": "Infrastrutura\\AlunoRepository.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\Infrastrutura\\AlunoRepository.cs",
               "RelativeToolTip": "Infrastrutura\\AlunoRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBAAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T11:56:15.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DbConnection.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\Infrastrutura\\DbConnection.cs",
               "RelativeDocumentMoniker": "Infrastrutura\\DbConnection.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\Infrastrutura\\DbConnection.cs",
               "RelativeToolTip": "Infrastrutura\\DbConnection.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T11:37:45.715Z",
               "EditorCaption": ""
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\Aluno.cs",
               "RelativeDocumentMoniker": "Aluno.cs",
@@ -101,8 +101,7 @@
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PortalDoAluno\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:19:11.413Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-09T10:19:11.413Z"
             }
           ]
         }

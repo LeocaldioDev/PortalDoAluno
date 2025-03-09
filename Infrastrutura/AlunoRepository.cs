@@ -16,6 +16,7 @@ namespace PortalDoAluno.Infrastrutura
             string query = @"INSERT INTO public.alunos(nome, idade, curso)
 	                                         VALUES (@nome,@idade, @curso);";
 
+
             var result = conn.Connection.Execute(sql: query, param: aluno);
 
             return result ==1;

@@ -16,6 +16,7 @@ namespace PortalDoAluno.Infrastrutura
              Connection.Open();
 
         }
+        
 
         public void Dispose()
         {
