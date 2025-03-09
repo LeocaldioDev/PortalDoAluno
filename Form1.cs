@@ -20,9 +20,9 @@ namespace PortalDoAluno
             foreach (var item in Alunos)
             {
                 lv__alunos.Items.Add(new ListViewItem(new string[] {
-                item.Nome.ToString(),
-                item.Idade.ToString(),
-                item.Curso.ToString(),
+                item.nome.ToString(),
+                item.idade.ToString(),
+                item.curso.ToString(),
                 
                 }));
             }
@@ -38,7 +38,7 @@ namespace PortalDoAluno
 
                 foreach (var item in Alunos)
                 {
-                    if (item.Nome == nome.ToString()) {
+                    if (item.nome == nome.ToString()) {
 
                         MessageBox.Show(nome + " Ja existe no sistema");
                         return;

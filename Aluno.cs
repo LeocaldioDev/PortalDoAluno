@@ -1,14 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace PortalDoAluno
 {
+    [Table("alunos")]
     public class Aluno
     {
-        public Aluno() { }
+        [Key]
+        public int id { get; private set; }
+        public string nome { get; private set; }
+        public int idade { get; private set; }
+        public string curso { get; private set; }
+
+        public Aluno() { 
+        }
         public Aluno(string nome, string idade, string curso)
         {
             if (string.IsNullOrEmpty(nome)) {
@@ -24,13 +34,10 @@ namespace PortalDoAluno
             }
 
 
-            Nome = nome;
-            Idade = int.Parse(idade);
-            Curso = curso;
+            this.nome = nome;
+            this.idade = int.Parse(idade);
+            this.curso = curso;
         }
 
-        public string Nome { get; private set; }
-        public int Idade { get; private set; }
-        public string Curso { get; private set; }
     }
 }

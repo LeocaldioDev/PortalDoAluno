@@ -21,3 +21,15 @@ C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extens
 C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Npgsql.dll
 C:\Users\hp\source\repos\PortalDoAluno\obj\Debug\net8.0-windows\PortalDoAluno.csproj.AssemblyReference.cache
 C:\Users\hp\source\repos\PortalDoAluno\obj\Debug\net8.0-windows\PortalDo.2F25D959.Up2Date
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hp\source\repos\PortalDoAluno\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
